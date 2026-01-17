@@ -3,16 +3,16 @@ End to end customer and sales Analysis for a gadget store using Excel, from raw 
 
 Customer Segmentation and Behavior Analysis (Excel Dashboard)
 
-Project Overview
+## Project Overview
 
 This project analyzes customer purchase data to understand customer buying behavior, identify high-value customers, and segment customers based on spending level and purchase frequency.
+
 The goal is to generate actionable business insights that can support customer retention strategies, revenue growth, and data-driven decision-making.
 
 ⸻
 
-Business Questions
-
-	•	Who are the highest-value customers?
+## Business Questions
+    •	Who are the highest-value customers?
 	•	How frequently do customers make purchases?
 	•	What proportion of customers are repeat buyers?
 	•	Which customer segments contribute the most revenue?
@@ -20,7 +20,7 @@ Business Questions
 
 ⸻
 
-Dataset
+## Dataset
 The dataset contains customer purchase records with the following fields:
 	•	Customer ID
 	•	Order ID
@@ -34,8 +34,7 @@ The raw dataset contained inconsistencies and required preprocessing before anal
 
 ⸻
 
-Data Cleaning Process
-
+## Data Cleaning Process
 Data cleaning and preparation were performed in Microsoft Excel and included the following steps:
 	1.	Converted the raw dataset into structured Excel Tables
 	2.	Removed extra spaces from text fields using TRIM
@@ -44,14 +43,13 @@ Data cleaning and preparation were performed in Microsoft Excel and included the
 	5.	Recalculated total sales to ensure data accuracy
 	6.	Created helper columns for Month and Year analysis
 	7.	Validated numeric fields and removed errors
-  8.  Checked for duplicate records and confirmed that no duplicates were present in the dataset.
+    8.  Checked for duplicate records and confirmed that no duplicates were present in the dataset.
 
 The cleaned dataset was preserved separately to maintain data integrity.
 
 ⸻
 
-Analysis Approach
-
+## Analysis Approach
 The analysis focused on customer behavior and revenue patterns:
 	1.	Created a customer-level summary table
 	2.	Calculated key metrics:
@@ -69,8 +67,7 @@ The analysis focused on customer behavior and revenue patterns:
 
 ⸻
 
-Visualizations
-
+## Visualizations
 The following visualizations were created in Excel:
 	•	Column Chart: Highest Value Customers
 	•	Pie Chart: Percentage of Customers by Purchase Frequency
@@ -81,9 +78,8 @@ An interactive Excel dashboard was designed to present insights clearly and intu
 
 ⸻
 
-Key Insights
-
-	•	Revenue is driven by a combination of very frequent and frequent buyers, indicating strong customer retention.
+## Key Insights
+    •   Revenue is driven by a combination of very frequent and frequent buyers, indicating strong customer retention.
 	•	Customers who make repeat purchases consistently generate higher total spend than one-time buyers.
 	•	Lagos is the most profitable city, significantly outperforming other locations.
 	•	Monthly revenue shows noticeable variation, suggesting potential seasonality or changes in demand.
@@ -91,7 +87,7 @@ Key Insights
 
 ⸻
 
-Recommendations
+## Recommendations
 
 	•	Implement loyalty and reward programs targeted at repeat customers to sustain revenue growth.
 	•	Leverage the strong market performance in Lagos while exploring strategies to improve sales in lower-performing cities.
@@ -99,7 +95,7 @@ Recommendations
 
 ⸻
 
-Tools Used
+## Tools Used
 
 	•	Microsoft Excel
 	•	Pivot Tables & Pivot Charts
@@ -108,7 +104,7 @@ Tools Used
 
 ⸻
 
-Author
+## Author
 
 Temitope Adeyemi
 Data Analyst
